@@ -51,3 +51,11 @@
 ### 4- Supprimer un produit 
 ![](Screens/Supprimer_produit.png)
 ![](Screens/Supprimer_produit2.png)
+
+##  Lien de déploiement
+
+L'application est accessible en local :
+
+http://localhost:8080/inventory-management/
+
+ *Remarque* : L'application doit être lancée sur Tomcat pour être accessible.
